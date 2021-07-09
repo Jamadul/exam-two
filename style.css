@@ -266,6 +266,7 @@ header ul li:hover ul {
 .main-matha-section{
     z-index: 999;
     position: relative;
+    margin-top: -4px;
 }
 /* <!-- ----------display-section begin---------- --> */
 
